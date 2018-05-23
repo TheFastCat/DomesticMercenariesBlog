@@ -10,7 +10,8 @@ $color-background-base: #ECEEEF;
 
 $color-white: lighten($color-base, 100%);
 $color-gray: lighten($color-base, 40%);
-$color-gray-border: lighten($color-base, 77%);
+// $color-gray-border: lighten($color-base, 77%);
+$color-gray-border: #D9D9D9;
 $color-gray-bg: lighten($color-base, 79%);
 
 // Typographic
