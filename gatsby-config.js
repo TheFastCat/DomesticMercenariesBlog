@@ -20,7 +20,7 @@ module.exports = {
       }
     ],
     author: {
-      name: 'John Doe',
+      name: 'Domestic Mercenaries',
       email: '#',
       telegram: '#',
       twitter: '#',
