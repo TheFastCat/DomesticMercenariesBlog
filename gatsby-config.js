@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://lumen.netlify.com',
     title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    subtitle: 'We are an independent, local business facilitating cleaning, cooking, laundry, grocery shopping and other home services with easy online scheduling and payment.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -21,11 +21,11 @@ module.exports = {
     ],
     author: {
       name: 'Domestic Mercenaries',
-      email: '#',
+      email: 'aloha@domesticmercenaries.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
+      facebook: 'DomesticMercenaries',
+      instagram: 'DomesticMercy',
+      rss: 'rss.xml',
       vk: '#'
     }
   },
