@@ -1,5 +1,5 @@
 {
-  "name": "fontello",
+  "name": "",
   "css_prefix_text": "icon-",
   "css_use_suffix": false,
   "hinting": true,
@@ -7,51 +7,9 @@
   "ascent": 850,
   "glyphs": [
     {
-      "uid": "58a16628dcbd6456c61218f3d27591be",
-      "css": "skype",
-      "code": 61822,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "627abcdb627cb1789e009c08e2678ef9",
-      "css": "twitter",
-      "code": 61593,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "f3d95e13eb43f3f6b8efe1eb424a1e3b",
-      "css": "vkontakte",
-      "code": 61833,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "87276033a77d0b9b890125c3639e4f87",
-      "css": "slack",
-      "code": 61848,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "e1597911f34fea0a188ae51fe4a2d9a9",
-      "css": "stackoverflow",
-      "code": 61804,
-      "src": "fontawesome"
-    },
-    {
       "uid": "8e04c98c8f5ca0a035776e3001ad2638",
       "css": "facebook",
       "code": 61594,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "5e0a374728ffa8d0ae1f331a8f648231",
-      "css": "github",
-      "code": 61715,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "38575a803c4da31ce20d77e1e1236bcb",
-      "css": "paper-plane",
-      "code": 61912,
       "src": "fontawesome"
     },
     {
@@ -61,15 +19,15 @@
       "src": "fontawesome"
     },
     {
-      "uid": "bf882b30900da12fca090d9796bc3030",
-      "css": "mail",
-      "code": 59392,
+      "uid": "cc399e4597f157dcbf016be0b7407fea",
+      "css": "pinterest",
+      "code": 62001,
       "src": "fontawesome"
     },
     {
-      "uid": "199c44bca402ec5a6351f75ba5228375",
-      "css": "dribbble",
-      "code": 61821,
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail",
+      "code": 59392,
       "src": "fontawesome"
     },
     {
@@ -77,31 +35,7 @@
       "css": "rss",
       "code": 61598,
       "src": "fontawesome"
-    },
-    {
-      "uid": "9d3e9faf68fd4e12def853f0d4e1173b",
-      "css": "whatsapp",
-      "code": 62002,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "e9107949dd6c9e8ab2b29ae07156e38c",
-      "css": "linkedin",
-      "code": 61665,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "43fcf807461234935e65261328e1dff6",
-      "css": "tumblr",
-      "code": 61811,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "2f87e74e6eb8d985044bf7f3c47cb50b",
-      "css": "odnoklassniki",
-      "code": 62051,
-      "src": "fontawesome"
-    },
+    }
     {
       "uid": "190ef5c5f25ece755d6d64130ae02f80",
       "css": "file-text2",

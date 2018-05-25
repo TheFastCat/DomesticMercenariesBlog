@@ -22,9 +22,9 @@ module.exports = {
     author: {
       name: 'Domestic Mercenaries',
       email: 'aloha@domesticmercenaries.com',
-      telegram: '#',
       facebook: 'DomesticMercenaries',
       instagram: 'DomesticMercy',
+      pinterest: 'DomesticMercenaries',
       rss: 'rss.xml',
       vk: '#'
     }
