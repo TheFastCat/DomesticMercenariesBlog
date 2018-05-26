@@ -10,16 +10,17 @@ module.exports = {
         label: 'Articles',
         path: '/'
       },
-      {
-        label: 'About us',
-        path: '/about/'
-      },
+      // {
+      //   label: 'About us',
+      //   path: '/about/'
+      // },
       {
         label: 'Contact us',
         path: '/contact/'
       }
     ],
     author: {
+      company: 'Domestic Mercenaries',
       name: 'Domestic Mercenaries Blog',
       email: 'aloha@domesticmercenaries.com',
       facebook: 'DomesticMercenaries',
