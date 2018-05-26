@@ -34,7 +34,8 @@
         }
     }
     &__copyright {
-        color: lighten($color-gray, 18%);
+        // color: lighten($color-gray, 18%);
+        color: $color-base;
         font-size: $typographic-small-font-size;
     }
 }
