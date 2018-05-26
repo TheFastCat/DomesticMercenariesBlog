@@ -8,7 +8,9 @@ class Layout extends React.Component {
 
     return (
       <div className="layout">
-        <Helmet defaultTitle="Domestic Mercenaries Blog" />
+        <Helmet defaultTitle="Domestic Mercenaries Blog" meta={[
+              { name: 'keywords', content: 'Domestic Mercenaries, home services, time management, save time, home cleaning' }
+            ]} />
         {children()}
       </div>
     );
