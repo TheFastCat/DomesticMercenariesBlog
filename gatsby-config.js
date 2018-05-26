@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
+    url: 'https://blog.domesticMercenaries.com',
+    title: 'Domestic Mercenaries Blog',
     subtitle: 'We are an independent, local business facilitating cleaning, cooking, laundry, grocery shopping and other home services with easy online scheduling and payment.',
     copyright: '© All rights reserved.',
-    disqusShortname: '',
+    disqusShortname: 'DM Blog',
     menu: [
       {
         label: 'Articles',
@@ -152,9 +152,51 @@ module.exports = {
           })
       }
     },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: 'Domestic Mercenaries Blog',
+        short_name: 'DM Blog',
+        start_url: '/',
+        background_color: '#ECEEEF',
+        theme_color: '#787F78',
+        display: 'minimal-ui',
+        icons: [
+          {
+            src: `/favicons/android-chrome-192x192.png`,
+            sizes: `192x192`,
+            type: `image/png`,
+          },
+          {
+            src: `/favicons/android-chrome-512x512.png`,
+            sizes: `512x512`,
+            type: `image/png`,
+          },
+        ],
+      },
+    },
     'gatsby-plugin-offline',
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-postcss-sass'
+    'gatsby-plugin-postcss-sass',
+    {
+      resolve: `gatsby-plugin-favicon`,
+      options: {
+        logo: "./src/assets/images/favicon.png",
+        injectHTML: true,
+        icons: {
+          android: true,
+          appleIcon: true,
+          appleStartup: true,
+          coast: false,
+          favicons: true,
+          firefox: true,
+          twitter: false,
+          yandex: false,
+          windows: true
+        }
+      }
+    }
+  
   ]
 };
