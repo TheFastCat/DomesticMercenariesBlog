@@ -17,31 +17,31 @@ class Links extends React.Component {
       <div className="links">
         <ul className="links__list">
           <li className="links__list-item">
-            <a href={`https://www.facebook.com/${links.facebook}`} target="_blank" >
+            <a href={`https://www.facebook.com/${links.facebook}`} target="_blank" alt="our Facebook url">
               <i className="icon-facebook" />
             </a>
           </li>
           <li className="links__list-item">
-            <a href={`https://www.instagram.com/${links.instagram}`} target="_blank" >
+            <a href={`https://www.instagram.com/${links.instagram}`} target="_blank" alt="our Instagram url">
               <i className="icon-instagram" />
             </a>
           </li>
           <li className="links__list-item">
-            <a href={`https://www.pinterest.com/${links.pinterest}`} target="_blank" >
+            <a href={`https://www.pinterest.com/${links.pinterest}`} target="_blank" alt="our pinterest url">
               <i className="icon-pinterest" />
             </a>
           </li>
         </ul>
         <ul className="links__list">
           <li className="links__list-item">
-            <a href={`mailto:${links.email}`}>
+            <a href={`mailto:${links.email}`} alt="our email address">
               <i className="icon-mail" />
             </a>
           </li>
         </ul>
         <ul className="links__list">
           <li className="links__list-item">
-            <a href={links.rss}>
+            <a href={links.rss} alt="our rss feed">
               <i className="icon-rss" />
             </a>
           </li>
