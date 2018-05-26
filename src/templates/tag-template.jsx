@@ -32,11 +32,13 @@ export const pageQuery = graphql`
           path
         }
         author {
+          company
           name
           email
           facebook
           instagram
           pinterest
+          url
           rss
         }
       }

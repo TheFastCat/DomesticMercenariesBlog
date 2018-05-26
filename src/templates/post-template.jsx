@@ -31,8 +31,9 @@ export const pageQuery = graphql`
         subtitle
         copyright
         author {
+          company
           name
-          facebook
+          url
         }
         disqusShortname
         url
