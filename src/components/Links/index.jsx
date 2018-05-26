@@ -9,12 +9,14 @@ class Links extends React.Component {
       facebook: author.facebook,
       instagram: author.instagram,
       pinterest: author.pinterest,
+      url: author.url,
       rss: author.rss,
       email: author.email
     };
 
     return (
       <div className="links">
+        <a href={`${links.facebook}`}>DomesticMercenaries.com</a>
         <ul className="links__list">
           <li className="links__list-item">
             <a href={`https://www.facebook.com/${links.facebook}`} alt="our Facebook url" rel="noopen">

@@ -11,20 +11,21 @@ module.exports = {
         path: '/'
       },
       {
-        label: 'About me',
+        label: 'About us',
         path: '/about/'
       },
       {
-        label: 'Contact me',
+        label: 'Contact us',
         path: '/contact/'
       }
     ],
     author: {
-      name: 'Domestic Mercenaries',
+      name: 'Domestic Mercenaries Blog',
       email: 'aloha@domesticmercenaries.com',
       facebook: 'DomesticMercenaries',
       instagram: 'DomesticMercy',
       pinterest: 'DomesticMercenaries',
+      url: 'https://domesticmercenaries.com',
       rss: 'rss.xml',
       vk: '#'
     }
