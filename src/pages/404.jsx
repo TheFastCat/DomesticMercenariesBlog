@@ -40,6 +40,7 @@ export const pageQuery = graphql`
           facebook
           instagram
           pinterest
+          url
           rss
         }
       }

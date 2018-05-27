@@ -16,7 +16,7 @@ class Links extends React.Component {
 
     return (
       <div className="links">
-        <a href={`${links.facebook}`}>DomesticMercenaries.com</a>
+        <a href={`${links.url}`}>DomesticMercenaries.com</a>
         <ul className="links__list">
           <li className="links__list-item">
             <a href={`https://www.facebook.com/${links.facebook}`} alt="our Facebook url" rel="noopen">
