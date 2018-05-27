@@ -119,7 +119,9 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-73379983-2' }
+      options: { trackingId: 'UA-110277790-2',
+                  respectDNT: true
+              }
     },
     {
       resolve: 'gatsby-plugin-sitemap',
