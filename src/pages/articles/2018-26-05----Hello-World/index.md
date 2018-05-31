@@ -10,7 +10,7 @@ tags:
 description: "Ideally we all have enough free time in our life for leisure, pursuits beyond those driven by survival that bring us joy. Time spent with friends or family, on hobbies or even just *not working* becomes precious the more it must instead be spent upkeeping our daily lives. While it is no surprise that more free time helps people to be happy, what may be surprising is that buying free time actually makes people happier."
 ---
 
-Ideally we all have enough free time in our life for leisure, pursuits beyond those driven by survival that bring us joy. Time spent with friends or family, on hobbies or even just *not working* becomes precious the more it must instead be spent upkeeping our daily lives. While it is no surprise that more free time helps people to be happy, what may be surprising is that buying free time actually makes people happier.
+Ideally we all have enough free time in our life for leisure, pursuits beyond those driven by survival that bring us joy. The more time we spend in the upkeep of our daily living the more precious our free time is. While it is no surprise that more free time helps people to be happy, what may be surprising is that buying free time actually makes people happier.
 
 An international research team led by Harvard Professor <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=943704&facInfo=pub" target="_blank">Ashley V. Whillans</a> analyzed survey data from 4,500 people from the Canada, Denmark the Netherlands and United States. Survey takers were asked if they delegated daily tasks to others in order to free more of their own time. 
 
