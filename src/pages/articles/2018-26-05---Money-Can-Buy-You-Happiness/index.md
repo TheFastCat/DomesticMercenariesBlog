@@ -3,7 +3,7 @@ title: Money Can Buy You Happiness
 date: "2018-05-29T16:46:37.121Z"
 layout: post
 draft: false
-path: "/posts/Money-can-buy-you-happiness/"
+path: "/posts/Money-Can-Buy-You-Happiness/"
 category: "Productivity"
 tags:
   - "Happiness"
