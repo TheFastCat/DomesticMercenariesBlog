@@ -20,7 +20,7 @@ An international research team led by Harvard Professor <a href="https://www.hbs
 > life than their counterparts who didn't. They also were less likely to say they felt "time stress," a condition that was linked with lower levels of 
 > life satisfaction. (Kaplan)
 
-The researchers also determined "that people from across the income spectrum benefitted from buying time"(Whillans) -- the benefits that come from maximizing free time aren't associated with being affluent, anyone can benefit. We built our company, <a href="https://domesticMercenaries.com/" target="_blank">Domestic Mercenaries</a>, around this concept -- providing our customers with more time.
+The researchers also determined "that people from across the income spectrum benefited from buying time"(Whillans) -- the benefits that come from maximizing free time aren't associated with being affluent, anyone can benefit. We built our company, <a href="https://domesticMercenaries.com/" target="_blank">Domestic Mercenaries</a>, around this concept -- providing our customers with more time.
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](./1_.png)
 
