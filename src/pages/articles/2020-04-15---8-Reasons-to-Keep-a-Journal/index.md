@@ -1,6 +1,6 @@
 ---
 title: 8 Reasons to Keep a Journal
-date: "2020-04-01T16:46:37.121Z"
+date: "2020-04-15T16:46:37.121Z"
 layout: post
 draft: false
 path: "/posts/8-Reasons-to-Keep-a-Journal/"
@@ -12,7 +12,7 @@ description: "This is the first in a three part series on journaling. So if you 
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](./logo.png)
 
-This is the first in a three part series on journaling. See also part 2 [5 Steps for Starting to Journal](/posts/5-Steps-for-Starting-to-Journal/) and part 3 "Inspiring Products to Jump Start Your Journaling".
+This is the first in a three part series on journaling. See also part 2, [5 Steps for Starting to Journal](/posts/5-Steps-for-Starting-to-Journal/), and part 3, "Inspiring Products to Jump Start Your Journaling".
 
 Keeping a journal (aka agenda, diary, planner) has become a popular trend for time management, tracking goals and even measuring health and wellness. Journals may also serve as to-do lists, calendars, note compendiums, sketch books and organizational systems across your life. Journaling can help to map goals, thoughts and feelings, spur creativity, mindfulness and health. So if you are interested in starting to journal or if you are looking for ideas to improve how you journal -- read on!
 

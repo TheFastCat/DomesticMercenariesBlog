@@ -12,7 +12,7 @@ description: "This is the second in a three part series on journaling. In this p
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](./logo.png)
 
-This is part two in a three part series on journaling. In this post we systemize the process of starting to keep a journal. Afterwards you will be prepared to focus your actions to achieve goals and realize improvement in your life. See also part 1 "8 Reasons to Keep a Journal" and part 3 "Inspiring Products to Jump Start Your Journaling".
+This is part two in a three part series on journaling. In this post we systemize the process of starting to keep a journal. Afterwards you will be prepared to focus your actions to achieve goals and realize improvement in your life. See also part 1, [8 Reasons to Keep a Journal](/posts/8-Reasons-to-Keep-a-Journal/), and part 3, "Inspiring Products to Jump Start Your Journaling".
 
 ### Step One: Plan
 Start by outlining in your journal the events in your daily, weekly and monthly life. These can include bill due dates, soccer practice, public holidays, family birthdays, doctor appointments, spring cleaning. This scheduling calendar will serve as the initial body of content for your journal so don't overthink it or 
